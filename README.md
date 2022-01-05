@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dipeshstorm
 - 👀 I’m interested in learning NodeJS
-- 🌱 I’m currently learning Excel
+- 🌱 I’m currently learning Web Designing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me linkedin.com/in/dipesh-singh-61a59743
 
