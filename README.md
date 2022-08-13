@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Dipeshstorm
-- 👀 I’m interested in learning NodeJS
+- 👋 Hi, I’m Dipesh Singh
+- 👀 I’m interested in learning NodeJS, ReactJS, JavaScript
 - 🌱 I’m currently learning Web Designing
 - 💞️ I’m looking to collaborate on HTML CSS projects
 <div>- 📫 How to reach me <a href"linkedin.com/in/dipesh-singh-61a59743">Dipesh Singh</a></div>
