@@ -2,7 +2,9 @@
 - 👀 I’m interested in learning NodeJS, ReactJS, JavaScript
 - 🌱 I’m currently learning Web Designing
 - 💞️ I’m looking to collaborate on HTML CSS projects
-- 📫 How to reach me ![linkedin](https://linkedin.com/in/dipesh-singh-61a59743&show_icons=true)
+<a href="https://linkedin.com/in/dipesh-singh-61a59743">
+  <img align="left" alt="TomasCostaK LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
 <div><p>My overview: </p></div>
 
